@@ -1,6 +1,6 @@
 author: Josef Pospíšil
 date: 2025-04-14
-title: Storage
+title: Storage 
 ---
 ## No Future Backend Development
 ---
